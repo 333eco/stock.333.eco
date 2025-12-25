@@ -1,7 +1,8 @@
 #!/usr/bin/env sh
 
-# chmod +x gif2.sh
-# ./gif2.sh
+# DOES NOT WORK
+# chmod +x gif3.sh
+# ./gif3.sh
 
 set -eu
 
